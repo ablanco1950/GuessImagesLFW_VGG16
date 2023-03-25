@@ -1,5 +1,5 @@
 # GuessImagesLFW_VGG16
-Simple application of VGG16 for the recognition of images, obtained from LFW of a limited number of characters(15) with good performance (greater than 80%)
+Simple application of VGG16 for the recognition of images, obtained from LFW, of a limited number of famous(15) with good performance (greater than 80%)
 
 It has been obtained from the model shown in the query
   https://stackoverflow.com/questions/52575271/keras-vgg16-same-model-different-approach-gave-different-result
