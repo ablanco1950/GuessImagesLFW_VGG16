@@ -165,6 +165,8 @@ Total failures = 6
 
 Accuracy = 85.0%
 
+The detail of the images that have been erroneously assigned allows the necessary debugging of the training images. For example: Michael_Schumacher's images are not recognized by their counterparts in the train file and yet the images of his train cause interference with other images, Michael_Schumacher's train images should be replaced by others
+
 
 References:
 
